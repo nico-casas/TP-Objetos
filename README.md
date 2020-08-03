@@ -1,1 +1,3 @@
 # TP-Objetos
+El proyecto modela un sistema para una inmobiliaria. Cuenta con un registro de propiedades, que sirve para enumerarlas, describirlas según ciertas caracteristicas y llevar el estado de las mismas. 
+La librería utilizada es Cli-Chart y la utilizo para hacer un grafico de barras donde se indica la cantidad de cada tipo de propiedad (Lote, Departamento, Casa) que existe en el Registro de Propiedades. 

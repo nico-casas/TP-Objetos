@@ -1,0 +1,16 @@
+{
+  "name": "trabajopractico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "inmobiliaria":"tsc inmobiliaria.ts & node inmobiliaria.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "cli-chart": "^0.3.1"
+  }
+}

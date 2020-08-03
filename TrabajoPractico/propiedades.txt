@@ -1,0 +1,19 @@
+1,Lote,Venta,2000000,350,Alem 1130,true
+2,Casa,Alquiler,14000,300,Mitre 200,true
+3,Departamento,Venta,4000000,45,Alem 1130,true
+3,Lote,Venta,2500000,1200,La Madrid 230,true
+4,Lote,Venta,1800000,2500,Garibaldi 130,true
+6,Casa,Venta,5500000,1500,Rojas 30,false
+7,Lote,Venta,2200000,400,Laprida 950,true
+8,Casa,Venta,7200000,650,San Martin 1130,false
+9,Casa,Venta,6500000,450,Maipu 1100,true
+10,Departamento,Venta,4500000,70,Mitre 1130,true
+11,Departamento,Alquiler,18000,60,Sarmiento 200,true
+12,Departamento,Venta,20000,50,Marconi 930,true
+13,Lote,Venta,1500000,350,Pedersen 900,true
+14,Lote,Venta,3100000,350,Alem 1130,false
+15,Casa,Alquiler,19500,700,Del Valle 430,true
+16,Casa,Venta,4100000,600,Alberdi 340,true
+17,Casa,Venta,4300000,750,Paz 245,false
+18,Lote,Venta,3700000,2750,Espora 430,true
+19,Casa,Alquiler,22000,1350,Alem 1130,true
